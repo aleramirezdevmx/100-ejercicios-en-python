@@ -1,0 +1,7 @@
+animales = [
+    "perro", "gato", "conejo", "leon", "tigre", "elefante", "jirafa", "oso", "lobo", "zorro",
+    "caballo", "vaca", "cerdo", "oveja", "cabra", "gallina", "pato", "ganso", "pavo", "burro",
+    "raton", "murcielago", "ardilla", "mapache", "nutria", "hipopotamo", "rinoceronte", "cebra", "mono", "gorila",
+    "chimpance", "cocodrilo", "iguana", "camaleon", "serpiente", "tortuga", "pez", "delfin", "ballena", "tiburon",
+    "calamar", "pulpo", "pingüino", "foca", "hamster", "koala", "canguro", "pantera", "halcon", "aguila"
+]
